@@ -1,0 +1,9 @@
+[server]
+maxUploadSize = 10
+maxMessageSize = 50
+
+[runner]
+fastReruns = true
+
+[browser]
+gatherUsageStats = false
